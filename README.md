@@ -1,1 +1,2 @@
 # minticjava
+hola mundo
